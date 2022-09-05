@@ -47,10 +47,16 @@ public class StringMethP1 {
         str4 = str4.toUpperCase();
         System.out.println(str4);
 
-//        String toUp = str4.toUpperCase();
-//        System.out.println(toUp);
+        String toUp = str4.toUpperCase();
+        System.out.println(toUp);
 
-
+        System.out.println("---------------------------------------------------------");
+        System.out.println("---------------------------------------------------------");
+        System.out.println(str4);
+        System.out.println(toUp);
+        System.out.println(str4);
+        System.out.println(toUp);
+        System.out.println("---------------------------------------------------------");
         System.out.println("---------------------------------------------------------");
 
         // trim(): returns the String without all the white spaces (unused spaces). return type --> String
